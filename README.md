@@ -1,85 +1,119 @@
-<div align="center">
+# Hi there, I'm Paras Tripathi! 👋
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=200&section=header&text=Paras%20Tripathi&fontSize=50&fontColor=ffffff&fontAlignY=38&desc=Aspiring%20Data%20Scientist%20%7C%20ML%20%7C%20NLP%20%7C%20Python&descAlignY=58&descColor=94a3b8"/>
-
-</div>
-
----
-
-### 👋 Hey there! I'm Paras
-
-I'm a **3rd year B.Tech Computer Science (IoT) student** at Pranveer Singh Institute of Technology, Kanpur.
-
-I love building real-world machine learning projects — not just training models, but deploying them as full products that anyone can use.
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=3b82f6&width=450&lines=Aspiring+Data+Scientist;ML+%2F+NLP+Engineer;Python+Developer;CS+(IoT)+Student+@+PSIT" alt="Typing SVG" />
+</p>
 
 ---
 
-### 🛠️ Tech Stack
+### 💫 About Me
 
-<div align="center">
+I am a **3rd-year B.Tech Computer Science (IoT)** student at **Pranveer Singh Institute of Technology (PSIT), Kanpur** 🎓. 
 
-![Python](https://img.shields.io/badge/Python-0f172a?style=for-the-badge&logo=python&logoColor=3b82f6)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0f172a?style=for-the-badge&logo=scikit-learn&logoColor=3b82f6)
-![Pandas](https://img.shields.io/badge/Pandas-0f172a?style=for-the-badge&logo=pandas&logoColor=3b82f6)
-![NumPy](https://img.shields.io/badge/NumPy-0f172a?style=for-the-badge&logo=numpy&logoColor=3b82f6)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0f172a?style=for-the-badge&logo=tensorflow&logoColor=3b82f6)
-![Streamlit](https://img.shields.io/badge/Streamlit-0f172a?style=for-the-badge&logo=streamlit&logoColor=3b82f6)
-![SQL](https://img.shields.io/badge/SQL-0f172a?style=for-the-badge&logo=mysql&logoColor=3b82f6)
-![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=3b82f6)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-0f172a?style=for-the-badge&logo=googlecloud&logoColor=3b82f6)
+I am passionate about building real-world machine learning and data science products — not just training models, but deploying them as scalable, user-friendly solutions that anyone can use.
 
-</div>
+- 🎓 **Education:** B.Tech in Computer Science & Engineering (IoT) @ PSIT Kanpur
+- 🚀 **Focus:** Machine Learning, Natural Language Processing, and Cloud AI
+- 💡 **Passion:** Translating raw datasets into actionable ML solutions and building live interactive apps.
+- 📍 **Location:** Kanpur, Uttar Pradesh, India
+- ✉️ **Email:** [ptparas172@gmail.com](mailto:ptparas172@gmail.com)
+
+---
+
+### 🛠️ Tech Stack & Skills
+
+<p align="left">
+  <!-- Languages -->
+  <a href="https://www.python.org" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/support-badges/badges/python-original.svg" width="40" height="40" alt="Python" />
+  </a>
+  <a href="https://scikit-learn.org" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/numpy.png" width="40" height="40" alt="NumPy" />
+  </a>
+  <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/support-badges/badges/pandas-original.svg" width="40" height="40" alt="Pandas" />
+  </a>
+  <a href="https://www.tensorflow.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/support-badges/badges/tensorflow-original.svg" width="40" height="40" alt="Tensorflow" />
+  </a>
+  <a href="https://streamlit.io" target="_blank" rel="noreferrer">
+    <img src="https://img.icons8.com/color/48/000000/streamlit.png" width="40" height="40" alt="Streamlit" />
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/support-badges/badges/mysql-original-wordmark.svg" width="40" height="40" alt="MySQL" />
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/profile-assets/main/support-badges/badges/git-original.svg" width="40" height="40" alt="Git" />
+  </a>
+</p>
+
+*   **Languages & Libraries:** Python, SQL, NumPy, Pandas, Scikit-learn, TensorFlow, Keras
+*   **Deployment & Web Apps:** Streamlit, Flask
+*   **Tools & Cloud:** Git, GitHub, Google Cloud Platform (GCP), Vertex AI
+*   **Areas of Interest:** Machine Learning, Natural Language Processing (NLP), Generative AI (LLMs, RAG)
 
 ---
 
 ### 🚀 Featured Project
 
 <div align="center">
-
-| 🛡️ SpamShield — Email Spam Classifier |
-|---|
-| AI-powered email spam detector with **94.2% accuracy** |
-| Multinomial Naive Bayes · 5,172 emails · Streamlit deployed |
-| [![Live Demo](https://img.shields.io/badge/Live%20Demo-3b82f6?style=for-the-badge&logo=streamlit&logoColor=white)](https://spamshield1.streamlit.app/) [![GitHub](https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white)](https://github.com/paras-tripathi/Email-Spam-Classifier) |
-
+  <table>
+    <thead>
+      <tr>
+        <th align="center">🛡️ SpamShield — Email Spam Classifier</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>An AI-powered email spam detector with **94.2% accuracy**, leveraging NLP techniques (TF-IDF vectorization, Multinomial Naive Bayes) trained on 5,172 emails and deployed with a modular architecture.</td>
+      </tr>
+      <tr>
+        <td align="center">
+          <a href="https://spamshield1.streamlit.app/" target="_blank">
+            <img src="https://img.shields.io/badge/Live%20Demo-3b82f6?style=for-the-badge&logo=streamlit&logoColor=white" alt="Live Demo" />
+          </a>
+          <a href="https://github.com/paras-tripathi/Email-Spam-Classifier" target="_blank">
+            <img src="https://img.shields.io/badge/GitHub-0f172a?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+          </a>
+        </td>
+      </tr>
+    </tbody>
+  </table>
 </div>
 
 ---
 
-### 📊 GitHub Stats
+### 🎓 Certifications & Badges
 
-<div align="center">
-
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=paras-tripathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-tripathi&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
+*   🟦 **Gen AI Exchange Program** — Google Cloud × Hack2skill
+*   ☁️ **Google Cloud Skill Badges** (5) — Vertex AI, Gemini API, Multimodal RAG
+*   🐍 **Python for Data Science** — Infosys Springboard
+*   🟨 **AWS Solutions Architecture** — Forage
 
 ---
 
-### 🎓 Certifications
+### 📊 GitHub Activity & Metrics
 
-- 🟦 **Gen AI Exchange Program** — Google Cloud × Hack2skill
-- ☁️ **Google Cloud Skill Badges** (5) — Vertex AI, Gemini API, Multimodal RAG
-- 🐍 **Python for Data Science** — Infosys Springboard
-- 🟨 **AWS Solutions Architecture** — Forage
-
----
-
-### 📫 Connect with me
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0f172a?style=for-the-badge&logo=linkedin&logoColor=3b82f6)](https://www.linkedin.com/in/paras-tripathi-aaab44316/)
-[![Gmail](https://img.shields.io/badge/Gmail-0f172a?style=for-the-badge&logo=gmail&logoColor=3b82f6)](mailto:ptparas172@gmail.com)
-[![SpamShield](https://img.shields.io/badge/SpamShield%20Demo-0f172a?style=for-the-badge&logo=streamlit&logoColor=3b82f6)](https://spamshield1.streamlit.app/)
-
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=paras-tripathi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=paras-tripathi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+</p>
 
 ---
 
-<div align="center">
+### 🔗 Connect With Me
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=3b82f6&height=100&section=footer"/>
-
-</div>
+<p align="left">
+  <a href="https://www.linkedin.com/in/paras-tripathi1/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/paras-tripathi" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+  <a href="mailto:ptparas172@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://spamshield1.streamlit.app/" target="_blank">
+    <img src="https://img.shields.io/badge/SpamShield-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Demo" />
+  </a>
+</p>
